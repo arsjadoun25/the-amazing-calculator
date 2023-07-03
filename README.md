@@ -32,9 +32,7 @@ git clone https://github.com/arsjadoun25/the-amazing-calculator
 
 Here is the certificate that was awarded upon completing the AccioJob YouTube workshop:
 
-![Workshop Certificate]('New Workshop Certificate.jpg')
-
-You can view the PDF version of the certificate [here]('New Workshop Certificate.pdf').
+![Workshop Certificate](https://github.com/arsjadoun25/the-amazing-calculator/assets/120724720/1df55bd9-623a-42bb-aec2-6c5d1d754de4) 
 
 ## Acknowledgments
 
